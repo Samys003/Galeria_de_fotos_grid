@@ -40,51 +40,51 @@ header{
 }
 .foto:nth-of-type(1){
     grid-area: f1;
-    background-image: url(maximalismo.jpg);
+    background-image: url(/img/maximalismo.jpg);
     background-position: center;
     background-size: cover;
 
 }
 .foto:nth-of-type(2){
     grid-area: f2;
-    background-image: url(praiabandeiras.jpg);
+    background-image: url(/img/praiabandeiras.jpg);
     background-position: center;
     background-size: cover;
 }
 .foto:nth-of-type(3){
     grid-area: f3;
-    background-image: url(mantra_tudodacertopramim.jpg);
+    background-image: url(/img/mantra_tudodacertopramim.jpg);
     background-position: center;
     background-size: cover;
     
 }
 .foto:nth-of-type(4){
     grid-area: f4;
-    background-image: url(boneyngyang.jpg);
+    background-image: url(./img/boneyngyang.jpg);
     background-position: center;
     background-size: cover;
 }
 .foto:nth-of-type(5){
     grid-area: f5;
-    background-image: url(unhas_cifrão.jpg);
+    background-image: url(./img/unhas_cifrão.jpg);
     background-position: center;
     background-size: cover;
 }
 .foto:nth-of-type(6){
     grid-area: f6;
-    background-image: url(motos.jpg);
+    background-image: url(./img/motos.jpg);
     background-position: center;
     background-size: cover;
 }
 .foto:nth-of-type(7){
     grid-area: f7;
-    background-image: url(nikeshocks.jpg);
+    background-image: url(./img/nikeshocks.jpg);
     background-position: center;
     background-size: cover;
 }
 .foto:nth-of-type(8){
     grid-area: f8;
-    background-image: url(t&tgloss.jpg);
+    background-image: url(./img/t&tgloss.jpg);
     background-position: center;
     background-size: cover;
 }
